@@ -87,7 +87,7 @@ This project is a **simulated scenario**: I imagined supporting the Los Angeles 
 ├── notebook.ipynb       # Analysis code
 ├── la_skyline.jpg       # README header image
 ├── la_crime.png         # Crimes-by-hour plot
-└── crimes.csv           # Dataset
+└── crimes.csv.gv        # Dataset (have to compress this)
 ```
 
 ## Possible Next Steps
